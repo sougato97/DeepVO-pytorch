@@ -1,9 +1,18 @@
-KITTI/images/
+KITTI/images/00
+KITTI/images/01
+KITTI/images/02
+KITTI/images/04
+KITTI/images/05
+KITTI/images/06
+KITTI/images/07
+KITTI/images/08
+KITTI/images/09
+KITTI/images/10
 KITTI/devkit/
 KITTI/pose_GT/
 *.png
 records/
-result/
+# result/
 models/
 pretrained/
 *.ipynb
